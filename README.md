@@ -1,0 +1,2 @@
+# android_hardware_wifi_atbm
+hi3798mv100的atbm6022 USB无线网卡驱动,已验证可用，集成到内核中编译需要修改一下Makefile
